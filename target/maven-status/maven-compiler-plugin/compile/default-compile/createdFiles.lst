@@ -1,0 +1,6 @@
+com\example\model\CustomerDetails.class
+com\example\SpringMvcApplication.class
+com\example\service\CustomerServiceInterface.class
+com\example\repository\CustomerRepository.class
+com\example\controller\CustomerController.class
+com\example\service\CustomerService.class
